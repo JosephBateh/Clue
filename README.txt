@@ -1,7 +1,9 @@
 The Text Adventure Clue
 by: Joseph Bateh
 
-NOTE: I did not implement an inventory (and therefore the take and drop commands), because Sean said that if I created the ability to interact with objects (something like calling the police), I was fine. I did not think an inventory was useful for Clue, so I implemented other more practical commands.
+//////////////////
+
+This was the final project of COP3502, the first programming class I took.
 
 //////////////////
 
